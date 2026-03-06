@@ -1,0 +1,97 @@
+{
+  "name": "SatyaaGanzz 24/7 uptime bot", // dont change this, it's just for fun
+  "bot-account": {
+    "username": "TARNUSSERVERS", //change this to your bot's username
+    "password": "",
+    "type": "offline"
+  },
+  "server": {
+    "ip": "tarnusian.falixsrv.me", // Change this to your server's IP address
+    "port": 24216, // Change this to your server's port if it's not the default 25565
+    "version": "1.21.1"
+  },
+  "position": {
+    "enabled": true,
+    "x": 0,
+    "y": 100,
+    "z": 0
+  },
+  "utils": {
+    "auto-auth": {
+      "enabled": true,
+      "password": "chalol78"
+    },
+    "anti-afk": {
+      "enabled": true,
+      "sneak": true
+    },
+    "chat-messages": {
+      "enabled": true,
+      "repeat": true,
+      "repeat-delay": 120,
+      "messages": [ // Add your custom chat messages here, unlimited
+        "Gacor lek",
+        "Satya TN 36 Fineshyt",
+        "I like to play Tarnusian Server!",
+        "Gilaa Bener..",
+        "Sini lah..",
+        "TARNUSIAN SERVER BESTTTT",
+        "apa sih..",
+        "gak ada kerjaan ya..",
+        "iseng banget sih.."
+      ]
+    },
+    "chat-log": true,
+    "auto-reconnect": true,
+    "auto-reconnect-delay": 2000,
+    "max-reconnect-delay": 120000,
+    "periodic-rejoin": {
+      "enabled": false,
+      "min-interval": 20,
+      "max-interval": 60
+    }
+  },
+  "movement": {
+    "enabled": true,
+    "circle-walk": {
+      "enabled": true,
+      "radius": 4,
+      "speed": 3000
+    },
+    "look-around": {
+      "enabled": true,
+      "interval": 5000
+    },
+    "random-jump": {
+      "enabled": true,
+      "interval": 10000
+    }
+  },
+  "modules": {
+    "avoidMobs": true,
+    "combat": true,
+    "beds": false,
+    "chat": true,
+    "console-commands": true
+  },
+  "combat": {
+    "attack-mobs": true,
+    "auto-eat": true
+  },
+  "beds": {
+    "pick-up-day": false,
+    "place-night": false
+  },
+  "discord": {
+    "enabled": false,
+    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "events": {
+      "connect": true,
+      "disconnect": true,
+      "chat": false
+    }
+  },
+  "chat": {
+    "respond": true
+  }
+}
