@@ -1,13 +1,13 @@
 {
-  "name": "SatyaaGanzz 24/7 uptime bot", // dont change this, it's just for fun
+  "name": "SatyaaGanzz 24/7 uptime bot", 
   "bot-account": {
-    "username": "TARNUSSERVERS", //change this to your bot's username
+    "username": "TARNUSSERVERS", 
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "tarnusian.falixsrv.me", // Change this to your server's IP address
-    "port": 24216, // Change this to your server's port if it's not the default 25565
+    "ip": "tarnusian.falixsrv.me", 
+    "port": 24216, 
     "version": "1.21.1"
   },
   "position": {
@@ -29,7 +29,7 @@
       "enabled": true,
       "repeat": true,
       "repeat-delay": 120,
-      "messages": [ // Add your custom chat messages here, unlimited
+      "messages": [ 
         "Gacor lek",
         "Satya TN 36 Fineshyt",
         "I like to play Tarnusian Server!",
