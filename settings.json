@@ -1,7 +1,7 @@
 {
   "name": "SatyaaGanzz 24/7 uptime bot", 
   "bot-account": {
-    "username": "TARNUSSERVERS", 
+    "username": "UPTIME24/7", 
     "password": "",
     "type": "offline"
   },
@@ -28,17 +28,26 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 180,
       "messages": [ 
-        "Gacor lek",
+        "Gacor",
         "Satya TN 36 Fineshyt",
-        "I like to play Tarnusian Server!",
-        "Gilaa Bener..",
-        "Sini lah..",
-        "TARNUSIAN SERVER BESTTTT",
+        "I like to play",
+        "Gilaa",
+        "Sini",
+        "./rtp buat random tp",
+        "Hadeh",
         "apa sih..",
-        "gak ada kerjaan ya..",
-        "iseng banget sih.."
+        "apaan?",
+        "buset",
+        "tau",
+        "oke",
+        "nanti dah",
+        "kalo inget",
+        "./tpa buat tp",
+        "./warp buat tp lokasi",
+        "./skins buat ganti skin"
+        
       ]
     },
     "chat-log": true,
